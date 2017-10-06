@@ -1,0 +1,22 @@
+{
+  "name": "npmtest",
+  "version": "1.0.0",
+  "description": "This is the LHL w1d5 exercise to install an existing package to one that is being created",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "bernieroach",
+    "test",
+    "LHL",
+    "lighthouselabs",
+    "w1d5",
+    "W1D5"
+  ],
+  "author": "Bernard Roach",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.1.0"
+  }
+}
